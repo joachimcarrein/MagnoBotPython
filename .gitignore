@@ -2,3 +2,4 @@
 .vscode/
 package-lock.json
 .secret
+**/__pycache__/*
